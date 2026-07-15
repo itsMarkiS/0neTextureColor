@@ -1,0 +1,39 @@
+{
+    "sources": [
+        {
+        "type": "directory",
+        "source": "entity/bed",
+        "prefix": "entity/bed/"
+        },
+      {
+      "type": "paletted_permutations",
+      "palette_key": "null",
+      "permutations": {
+        "white": "white",
+        "light_gray": "light_gray",
+        "gray": "gray",
+        "black": "black",
+        "brown": "brown",
+        "red": "red",
+        "orange": "orange",
+        "yellow": "yellow",
+        "lime": "lime",
+        "green": "green",
+        "cyan": "cyan",
+        "light_blue": "light_blue",
+        "blue": "blue",
+        "purple": "purple",
+        "magenta": "magenta",
+        "pink": "pink"
+      },
+      "textures": [
+        "entity/bed/bed",
+        "block/bed",
+        "block/concrete",
+        "block/concrete_powder",
+        "block/terracottas",
+        "block/wool"
+      ]
+    }
+    ]
+}
